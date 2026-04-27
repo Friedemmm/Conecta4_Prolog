@@ -32,8 +32,8 @@ Laboratorio-1-Paradigmas/
  
  **Clonar o descargar el repositorio**:
 ```bash
-cd Laboratorio-2-Paradigmas
 git clone https://github.com/Friedemmm/Conecta4_Prolog.git
+cd Laboratorio-2-Paradigmas
 ```
 
 ### Inicializar una partida
